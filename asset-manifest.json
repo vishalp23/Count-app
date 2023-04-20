@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Count-app/static/css/main.93669f59.css",
+    "main.js": "/Count-app/static/js/main.bee36875.js",
+    "static/js/787.533acb18.chunk.js": "/Count-app/static/js/787.533acb18.chunk.js",
+    "index.html": "/Count-app/index.html",
+    "main.93669f59.css.map": "/Count-app/static/css/main.93669f59.css.map",
+    "main.bee36875.js.map": "/Count-app/static/js/main.bee36875.js.map",
+    "787.533acb18.chunk.js.map": "/Count-app/static/js/787.533acb18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93669f59.css",
+    "static/js/main.bee36875.js"
+  ]
+}
